@@ -185,7 +185,7 @@
         </div>
 
         <div class="mt-10">
-          <p class="text-[18px] font-semibold">Notes</p>
+          <p class="text-[18px] font-semibold">Notess</p>
           <input
             type="text"
             placeholder="Type things to be noted"

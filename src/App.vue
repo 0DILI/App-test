@@ -147,7 +147,7 @@
             <p class="text-[14px] font-medium" style="color: #000; opacity: 0.7">
               Sweaty Neck with Itchy Nose
             </p>
-            <img src="./assets/edit.svg" />
+            <img src="@/assets/edit.svg" />
           </span>
 
           <input

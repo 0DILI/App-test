@@ -147,7 +147,7 @@
             <p class="text-[14px] font-medium" style="color: #000; opacity: 0.7">
               Sweaty Neck with Itchy Nose
             </p>
-            <img src="./assets/edit.svg" alt="" />
+            <img src="./assets/edit.svg" />
           </span>
 
           <input
@@ -185,7 +185,7 @@
         </div>
 
         <div class="mt-10">
-          <p class="text-[18px] font-semibold">Notess</p>
+          <p class="text-[18px] font-semibold">Notes</p>
           <input
             type="text"
             placeholder="Type things to be noted"

@@ -176,7 +176,7 @@
             >
               <!-- SVG Camera Icon -->
               <div class="text-center">
-                <img src="@/assets/camera.svg" class="mx-auto" />
+                <img src="@/assets/Camera.svg" class="mx-auto" />
                 <p class="mt-2 text-sm text-gray-500">Click to upload or drag and drop</p>
                 <p class="text-xs text-gray-400">SVG, PNG, JPG or GIF (MAX. 800x400px)</p>
               </div>

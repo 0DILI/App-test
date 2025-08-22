@@ -2,7 +2,7 @@
   <div class="bg-[#D3D3D3] flex flex-col justify-center items-center h-screen px-2 py-7">
     <div class="bg-white w-full max-w-[800px] mx-auto p-4 rounded-lg flow">
       <span class="flex items-center justify-between">
-        <img src="./assets/arrow1.svg" />
+        <img src="@/assets/arrow1.svg" />
         <p class="text-[20px] font-bold">Shareable Triggers</p>
       </span>
 
@@ -157,7 +157,7 @@
           />
 
           <button class="flex items-center gap-3 bg-black p-3 rounded-[12px] mt-4">
-            <img src="./assets/plus.svg" />
+            <img src="@/assets/plus.svg" />
             <p class="text-[12px] text-white font-medium">Add List</p>
           </button>
         </div>
@@ -176,7 +176,7 @@
             >
               <!-- SVG Camera Icon -->
               <div class="text-center">
-                <img src="./assets/camera.svg" class="mx-auto" />
+                <img src="@/assets/camera.svg" class="mx-auto" />
                 <p class="mt-2 text-sm text-gray-500">Click to upload or drag and drop</p>
                 <p class="text-xs text-gray-400">SVG, PNG, JPG or GIF (MAX. 800x400px)</p>
               </div>
